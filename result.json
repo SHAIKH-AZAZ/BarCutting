@@ -1,0 +1,6479 @@
+[
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B1"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B2"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B3"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B4"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B5"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B6"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B7"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B8"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B9"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B10"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B11"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      4.73,
+      4.73
+    ],
+    "barCount": 2,
+    "totalLength": 9.46,
+    "wastage": 2.54,
+    "barId": "B12"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B13"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B14"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B15"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B16"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B17"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B18"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B19"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B20"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B21"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B22"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B23"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B24"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B25"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B26"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B27"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B28"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B29"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B30"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B31"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B32"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B33"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B34"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B35"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B36"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B37"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B38"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B39"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B40"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B41"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.21
+    ],
+    "barCount": 1,
+    "totalLength": 9.21,
+    "wastage": 2.79,
+    "barId": "B42"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B43"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B44"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B45"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B46"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B47"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B48"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B49"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B50"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B51"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B52"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B53"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B54"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B55"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B56"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B57"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B58"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B59"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B60"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B61"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B62"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B63"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B64"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B65"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B66"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B67"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B68"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B69"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B70"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B71"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B72"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B73"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B74"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B75"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B76"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B77"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B78"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B79"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B80"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B81"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B82"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B83"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B84"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B85"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B86"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B87"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.848
+    ],
+    "barCount": 1,
+    "totalLength": 8.848,
+    "wastage": 3.152,
+    "barId": "B88"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B89"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B90"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B91"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B92"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B93"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B94"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B95"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B96"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B97"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B98"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B99"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B100"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B101"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B102"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B103"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B104"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B105"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B106"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B107"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B108"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B109"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B110"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B111"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B112"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B113"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B114"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B115"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B116"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B117"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B118"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B119"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B120"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B121"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B122"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B123"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B124"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B125"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B126"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B127"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B128"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.061
+    ],
+    "barCount": 1,
+    "totalLength": 10.061,
+    "wastage": 1.939,
+    "barId": "B129"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B130"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B131"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B132"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B133"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B134"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B135"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B136"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B137"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B138"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B139"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.269
+    ],
+    "barCount": 1,
+    "totalLength": 7.269,
+    "wastage": 4.731,
+    "barId": "B140"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B141"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B142"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B143"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B144"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B145"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B146"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B147"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B148"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B149"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B150"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B151"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B152"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B153"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B154"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B155"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B156"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B157"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B158"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.639
+    ],
+    "barCount": 1,
+    "totalLength": 11.639,
+    "wastage": 0.361,
+    "barId": "B159"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B160"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B161"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B162"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B163"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B164"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B165"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B166"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B167"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B168"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B169"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B170"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B171"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B172"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B173"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B174"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B175"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B176"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B177"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B178"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B179"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B180"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B181"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B182"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      9.133
+    ],
+    "barCount": 1,
+    "totalLength": 9.133,
+    "wastage": 2.867,
+    "barId": "B183"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B184"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B185"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B186"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B187"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B188"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B189"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B190"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B191"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B192"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586,
+      2.586,
+      2.586
+    ],
+    "barCount": 4,
+    "totalLength": 10.344,
+    "wastage": 1.656,
+    "barId": "B193"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.586,
+      2.586
+    ],
+    "barCount": 2,
+    "totalLength": 5.172,
+    "wastage": 6.828,
+    "barId": "B194"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B195"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B196"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B197"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B198"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B199"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B200"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B201"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B202"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B203"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B204"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B205"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B206"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.828
+    ],
+    "barCount": 1,
+    "totalLength": 10.828,
+    "wastage": 1.172,
+    "barId": "B207"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B208"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B209"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B210"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B211"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B212"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B213"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B214"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B215"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B216"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B217"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B218"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B219"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B220"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B221"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B222"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B223"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B224"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B225"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B226"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B227"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.946
+    ],
+    "barCount": 1,
+    "totalLength": 8.946,
+    "wastage": 3.054,
+    "barId": "B228"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B229"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B230"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B231"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B232"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B233"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B234"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B235"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B236"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B237"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B238"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B239"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B240"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B241"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B242"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B243"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B244"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B245"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B246"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B247"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B248"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B249"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B250"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B251"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B252"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B253"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B254"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B255"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B256"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B257"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B258"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B259"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B260"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B261"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B262"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B263"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B264"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B265"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B266"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B267"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B268"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.535
+    ],
+    "barCount": 1,
+    "totalLength": 7.535,
+    "wastage": 4.465,
+    "barId": "B269"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B270"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B271"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B272"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B273"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B274"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B275"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B276"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B277"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B278"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B279"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B280"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B281"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B282"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B283"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B284"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B285"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B286"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B287"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B288"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B289"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B290"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B291"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963,
+      5.963
+    ],
+    "barCount": 2,
+    "totalLength": 11.926,
+    "wastage": 0.074,
+    "barId": "B292"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.963
+    ],
+    "barCount": 1,
+    "totalLength": 5.963,
+    "wastage": 6.037,
+    "barId": "B293"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B294"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B295"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B296"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B297"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B298"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B299"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B300"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B301"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B302"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B303"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B304"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B305"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B306"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B307"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B308"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B309"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B310"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B311"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B312"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B313"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B314"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B315"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B316"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B317"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B318"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B319"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B320"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B321"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B322"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B323"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B324"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B325"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B326"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B327"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B328"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B329"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B330"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B331"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.325
+    ],
+    "barCount": 1,
+    "totalLength": 7.325,
+    "wastage": 4.675,
+    "barId": "B332"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B333"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B334"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B335"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B336"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B337"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B338"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B339"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B340"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B341"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B342"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B343"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B344"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B345"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B346"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B347"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B348"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B349"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B350"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B351"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B352"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B353"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B354"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B355"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443,
+      5.443
+    ],
+    "barCount": 2,
+    "totalLength": 10.886,
+    "wastage": 1.114,
+    "barId": "B356"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      5.443
+    ],
+    "barCount": 1,
+    "totalLength": 5.443,
+    "wastage": 6.557,
+    "barId": "B357"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B358"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B359"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B360"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B361"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B362"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B363"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B364"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B365"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B366"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B367"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B368"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B369"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B370"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B371"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B372"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B373"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B374"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B375"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B376"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B377"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B378"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B379"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B380"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B381"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B382"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B383"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B384"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.188
+    ],
+    "barCount": 1,
+    "totalLength": 10.188,
+    "wastage": 1.812,
+    "barId": "B385"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.864,
+      2.864,
+      2.864,
+      2.864
+    ],
+    "barCount": 4,
+    "totalLength": 11.456,
+    "wastage": 0.544,
+    "barId": "B386"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.864,
+      2.864,
+      2.864,
+      2.864
+    ],
+    "barCount": 4,
+    "totalLength": 11.456,
+    "wastage": 0.544,
+    "barId": "B387"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.864,
+      2.864,
+      2.864,
+      2.864
+    ],
+    "barCount": 4,
+    "totalLength": 11.456,
+    "wastage": 0.544,
+    "barId": "B388"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.864,
+      2.864,
+      2.864,
+      2.864
+    ],
+    "barCount": 4,
+    "totalLength": 11.456,
+    "wastage": 0.544,
+    "barId": "B389"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.864,
+      2.864,
+      2.864,
+      2.864
+    ],
+    "barCount": 4,
+    "totalLength": 11.456,
+    "wastage": 0.544,
+    "barId": "B390"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      2.864
+    ],
+    "barCount": 1,
+    "totalLength": 2.864,
+    "wastage": 9.136,
+    "barId": "B391"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65
+    ],
+    "barCount": 7,
+    "totalLength": 11.55,
+    "wastage": 0.45,
+    "barId": "B392"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65
+    ],
+    "barCount": 7,
+    "totalLength": 11.55,
+    "wastage": 0.45,
+    "barId": "B393"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65
+    ],
+    "barCount": 7,
+    "totalLength": 11.55,
+    "wastage": 0.45,
+    "barId": "B394"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65
+    ],
+    "barCount": 7,
+    "totalLength": 11.55,
+    "wastage": 0.45,
+    "barId": "B395"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65
+    ],
+    "barCount": 7,
+    "totalLength": 11.55,
+    "wastage": 0.45,
+    "barId": "B396"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65
+    ],
+    "barCount": 7,
+    "totalLength": 11.55,
+    "wastage": 0.45,
+    "barId": "B397"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65,
+      1.65
+    ],
+    "barCount": 7,
+    "totalLength": 11.55,
+    "wastage": 0.45,
+    "barId": "B398"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B399"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B400"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B401"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B402"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B403"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B404"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B405"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B406"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B407"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B408"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B409"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B410"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B411"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B412"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B413"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B414"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B415"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B416"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B417"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B418"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B419"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B420"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B421"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B422"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B423"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B424"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B425"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B426"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B427"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B428"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B429"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B430"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B431"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B432"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B433"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B434"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B435"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B436"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B437"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      8.572
+    ],
+    "barCount": 1,
+    "totalLength": 8.572,
+    "wastage": 3.428,
+    "barId": "B438"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B439"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B440"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B441"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B442"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B443"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B444"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B445"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B446"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B447"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B448"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B449"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B450"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B451"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B452"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B453"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B454"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B455"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B456"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B457"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B458"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B459"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B460"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B461"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B462"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B463"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B464"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B465"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B466"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B467"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B468"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B469"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B470"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B471"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B472"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B473"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B474"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B475"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B476"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B477"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B478"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B479"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B480"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B481"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B482"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B483"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      11.127
+    ],
+    "barCount": 1,
+    "totalLength": 11.127,
+    "wastage": 0.873,
+    "barId": "B484"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B485"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B486"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B487"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B488"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B489"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B490"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B491"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B492"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B493"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B494"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B495"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B496"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B497"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B498"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B499"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B500"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B501"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B502"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B503"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B504"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B505"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B506"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B507"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B508"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B509"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B510"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B511"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B512"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B513"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B514"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B515"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B516"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B517"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B518"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B519"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B520"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B521"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B522"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B523"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.653
+    ],
+    "barCount": 1,
+    "totalLength": 6.653,
+    "wastage": 5.347,
+    "barId": "B524"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B525"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B526"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B527"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B528"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B529"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B530"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B531"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B532"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B533"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B534"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B535"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      10.978
+    ],
+    "barCount": 1,
+    "totalLength": 10.978,
+    "wastage": 1.022,
+    "barId": "B536"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B537"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B538"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B539"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B540"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B541"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B542"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B543"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B544"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B545"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B546"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B547"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B548"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B549"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B550"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.657
+    ],
+    "barCount": 1,
+    "totalLength": 7.657,
+    "wastage": 4.343,
+    "barId": "B551"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765
+    ],
+    "barCount": 6,
+    "totalLength": 10.59,
+    "wastage": 1.41,
+    "barId": "B552"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765
+    ],
+    "barCount": 6,
+    "totalLength": 10.59,
+    "wastage": 1.41,
+    "barId": "B553"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765
+    ],
+    "barCount": 6,
+    "totalLength": 10.59,
+    "wastage": 1.41,
+    "barId": "B554"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765
+    ],
+    "barCount": 6,
+    "totalLength": 10.59,
+    "wastage": 1.41,
+    "barId": "B555"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765
+    ],
+    "barCount": 6,
+    "totalLength": 10.59,
+    "wastage": 1.41,
+    "barId": "B556"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765,
+      1.765
+    ],
+    "barCount": 6,
+    "totalLength": 10.59,
+    "wastage": 1.41,
+    "barId": "B557"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B558"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B559"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B560"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B561"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B562"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B563"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B564"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B565"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B566"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B567"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B568"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B569"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B570"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B571"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B572"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B573"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B574"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B575"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B576"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B577"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B578"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B579"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B580"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B581"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B582"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B583"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B584"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B585"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B586"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B587"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B588"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B589"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B590"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B591"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B592"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B593"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B594"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B595"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B596"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B597"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B598"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B599"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B600"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B601"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      7.698
+    ],
+    "barCount": 1,
+    "totalLength": 7.698,
+    "wastage": 4.302,
+    "barId": "B602"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B603"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B604"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B605"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B606"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B607"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B608"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B609"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B610"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B611"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B612"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B613"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B614"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B615"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B616"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B617"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B618"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B619"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B620"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B621"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B622"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B623"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B624"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B625"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B626"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B627"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B628"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B629"
+  },
+  {
+    "group": "",
+    "cuttingLengths": [
+      6.08
+    ],
+    "barCount": 1,
+    "totalLength": 6.08,
+    "wastage": 5.92,
+    "barId": "B630"
+  }
+]

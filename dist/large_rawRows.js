@@ -1,0 +1,32 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.rawRows = void 0;
+exports.rawRows = [
+    { "Sl no": "B1", "Dia": 0, "Total Bars": 0, "Cutting Length": 0, "Element": "Beam" },
+    { "Sl no": "1", "Dia": 8, "Total Bars": 24, "Cutting Length": 4.73, "Element": "" },
+    { "Sl no": "2", "Dia": 10, "Total Bars": 30, "Cutting Length": 9.21, "Element": "" },
+    { "Sl no": "3", "Dia": 12, "Total Bars": 46, "Cutting Length": 8.848, "Element": "" },
+    { "Sl no": "4", "Dia": 16, "Total Bars": 41, "Cutting Length": 10.061, "Element": "" },
+    { "Sl no": "5", "Dia": 20, "Total Bars": 11, "Cutting Length": 7.269, "Element": "" },
+    { "Sl no": "6", "Dia": 25, "Total Bars": 19, "Cutting Length": 11.639, "Element": "" },
+    { "Sl no": "7", "Dia": 10, "Total Bars": 24, "Cutting Length": 9.133, "Element": "" },
+    { "Sl no": "8", "Dia": 12, "Total Bars": 42, "Cutting Length": 2.586, "Element": "" },
+    { "Sl no": "9", "Dia": 12, "Total Bars": 13, "Cutting Length": 10.828, "Element": "" },
+    { "Sl no": "10", "Dia": 10, "Total Bars": 21, "Cutting Length": 8.946, "Element": "" },
+    { "Sl no": "11", "Dia": 10, "Total Bars": 41, "Cutting Length": 7.535, "Element": "" },
+    { "Sl no": "12", "Dia": 20, "Total Bars": 47, "Cutting Length": 5.963, "Element": "" },
+    { "Sl no": "S3", "Dia": 0, "Total Bars": 0, "Cutting Length": 0, "Element": "Slab" },
+    { "Sl no": "13", "Dia": 20, "Total Bars": 39, "Cutting Length": 7.325, "Element": "" },
+    { "Sl no": "14", "Dia": 10, "Total Bars": 49, "Cutting Length": 5.443, "Element": "" },
+    { "Sl no": "15", "Dia": 10, "Total Bars": 28, "Cutting Length": 10.188, "Element": "" },
+    { "Sl no": "16", "Dia": 20, "Total Bars": 21, "Cutting Length": 2.864, "Element": "" },
+    { "Sl no": "17", "Dia": 20, "Total Bars": 49, "Cutting Length": 1.65, "Element": "" },
+    { "Sl no": "18", "Dia": 16, "Total Bars": 40, "Cutting Length": 8.572, "Element": "" },
+    { "Sl no": "19", "Dia": 12, "Total Bars": 46, "Cutting Length": 11.127, "Element": "" },
+    { "Sl no": "20", "Dia": 12, "Total Bars": 40, "Cutting Length": 6.653, "Element": "" },
+    { "Sl no": "21", "Dia": 12, "Total Bars": 12, "Cutting Length": 10.978, "Element": "" },
+    { "Sl no": "22", "Dia": 12, "Total Bars": 15, "Cutting Length": 7.657, "Element": "" },
+    { "Sl no": "23", "Dia": 12, "Total Bars": 36, "Cutting Length": 1.765, "Element": "" },
+    { "Sl no": "24", "Dia": 10, "Total Bars": 45, "Cutting Length": 7.698, "Element": "" },
+    { "Sl no": "25", "Dia": 12, "Total Bars": 28, "Cutting Length": 6.08, "Element": "" }
+];
